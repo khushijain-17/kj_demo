@@ -1,4 +1,4 @@
 # kj_demo
-Another try learning myself
+This is a sample README.md file
 <br>
 Author-khushi jain
